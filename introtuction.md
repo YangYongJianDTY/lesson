@@ -38,7 +38,7 @@
 ## 如何解决问题
 
   - 思考
-  - 科学上网
+  - 搜索的艺术
     - google
     - 度娘
     - [stackoverflow](http://stackoverflow.com/)
