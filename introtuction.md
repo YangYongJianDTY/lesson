@@ -52,7 +52,7 @@
   - 一款适合自己的编辑器
   - gulp
   - webpack
-  - yarn
+  - npm or yarn
   - ...
 
 
